@@ -1,4 +1,4 @@
-# [Excel Project Profolio]
+# Excel Project Profolio
 ## Welcome to my portfolio for demonstrating my learning and growth in Excel skills. The screenshots below display the final result of my projects through which I use data analysis and data visualizations for generating insights. If you would like to explore further, I have linked the excel workbook available to download.
 
 ## [Superstore Sales Tracker](https://github.com/jxlinnn/jxlinnn.github.io/blob/main/excel_projects/superstore_sales.xlsx)
